@@ -1,0 +1,5 @@
+C:\Users\eferreira\Documents\Visual Studio 2010 Beta\Utilitarios\Pattens\Façade\bin\Debug\Façade.exe
+C:\Users\eferreira\Documents\Visual Studio 2010 Beta\Utilitarios\Pattens\Façade\bin\Debug\Façade.pdb
+C:\Users\eferreira\Documents\Visual Studio 2010 Beta\Utilitarios\Pattens\Façade\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eferreira\Documents\Visual Studio 2010 Beta\Utilitarios\Pattens\Façade\obj\x86\Debug\Façade.exe
+C:\Users\eferreira\Documents\Visual Studio 2010 Beta\Utilitarios\Pattens\Façade\obj\x86\Debug\Façade.pdb

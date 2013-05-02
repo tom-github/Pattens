@@ -1,0 +1,5 @@
+C:\Users\eferreira\Documents\Visual Studio 2010 Beta\Utilitarios\Pattens\Template\bin\Debug\Template.exe
+C:\Users\eferreira\Documents\Visual Studio 2010 Beta\Utilitarios\Pattens\Template\bin\Debug\Template.pdb
+C:\Users\eferreira\Documents\Visual Studio 2010 Beta\Utilitarios\Pattens\Template\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eferreira\Documents\Visual Studio 2010 Beta\Utilitarios\Pattens\Template\obj\x86\Debug\Template.exe
+C:\Users\eferreira\Documents\Visual Studio 2010 Beta\Utilitarios\Pattens\Template\obj\x86\Debug\Template.pdb

@@ -1,0 +1,5 @@
+C:\Users\eferreira\Documents\Visual Studio 2010 Beta\Utilitarios\Pattens\FactoryMethod\FactoryMethod\bin\Debug\Factory.exe
+C:\Users\eferreira\Documents\Visual Studio 2010 Beta\Utilitarios\Pattens\FactoryMethod\FactoryMethod\bin\Debug\Factory.pdb
+C:\Users\eferreira\Documents\Visual Studio 2010 Beta\Utilitarios\Pattens\FactoryMethod\FactoryMethod\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eferreira\Documents\Visual Studio 2010 Beta\Utilitarios\Pattens\FactoryMethod\FactoryMethod\obj\x86\Debug\Factory.exe
+C:\Users\eferreira\Documents\Visual Studio 2010 Beta\Utilitarios\Pattens\FactoryMethod\FactoryMethod\obj\x86\Debug\Factory.pdb
