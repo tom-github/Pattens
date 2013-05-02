@@ -1,0 +1,5 @@
+C:\Users\eferreira\Documents\Visual Studio 2010 Beta\Utilitarios\Pattens\Adapter\bin\Debug\Adapter.exe
+C:\Users\eferreira\Documents\Visual Studio 2010 Beta\Utilitarios\Pattens\Adapter\bin\Debug\Adapter.pdb
+C:\Users\eferreira\Documents\Visual Studio 2010 Beta\Utilitarios\Pattens\Adapter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eferreira\Documents\Visual Studio 2010 Beta\Utilitarios\Pattens\Adapter\obj\x86\Debug\Adapter.exe
+C:\Users\eferreira\Documents\Visual Studio 2010 Beta\Utilitarios\Pattens\Adapter\obj\x86\Debug\Adapter.pdb
