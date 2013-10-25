@@ -1,21 +1,22 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace Memento
+﻿namespace Memento
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            ProspectoVendas s = new ProspectoVendas();
-            s.Nome = "Marcos Paulo";
-            s.Telefone = "(031) 1234-5678";
-            s.Orcamento = 25000.0;
+            ProspectoVendas s = new ProspectoVendas
+                {
+                    Nome = "Marcos Paulo",
+                    Telefone = "(031) 1234-5678",
+                    Orcamento = 25000.0
+                };
+
             // Salva estado interno
-            MemoriaProspecto m = new MemoriaProspecto();
-            m.Recordacao = s.SalvaRecordacao();
+            MemoriaProspecto m = new MemoriaProspecto
+                {
+                    Recordacao = s.SalvaRecordacao()
+                };
+
             // Continua modificando originador
             s.Nome = "Marques Corrêa";
             s.Telefone = "(031) 8765-4321";

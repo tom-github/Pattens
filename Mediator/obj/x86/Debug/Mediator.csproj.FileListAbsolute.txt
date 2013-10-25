@@ -7,3 +7,7 @@ C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Mediato
 C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Mediator\bin\Debug\Mediator.pdb
 C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Mediator\obj\x86\Debug\Mediator.exe
 C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Mediator\obj\x86\Debug\Mediator.pdb
+C:\Users\eferreira\Documents\GitHub\Pattens\Mediator\bin\Debug\Mediator.exe
+C:\Users\eferreira\Documents\GitHub\Pattens\Mediator\bin\Debug\Mediator.pdb
+C:\Users\eferreira\Documents\GitHub\Pattens\Mediator\obj\x86\Debug\Mediator.exe
+C:\Users\eferreira\Documents\GitHub\Pattens\Mediator\obj\x86\Debug\Mediator.pdb

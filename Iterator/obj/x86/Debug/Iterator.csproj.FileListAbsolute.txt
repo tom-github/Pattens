@@ -7,3 +7,7 @@ C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Iterato
 C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Iterator\bin\Debug\Iterator.pdb
 C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Iterator\obj\x86\Debug\Iterator.exe
 C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Iterator\obj\x86\Debug\Iterator.pdb
+C:\Users\eferreira\Documents\GitHub\Pattens\Iterator\bin\Debug\Iterator.exe
+C:\Users\eferreira\Documents\GitHub\Pattens\Iterator\bin\Debug\Iterator.pdb
+C:\Users\eferreira\Documents\GitHub\Pattens\Iterator\obj\x86\Debug\Iterator.exe
+C:\Users\eferreira\Documents\GitHub\Pattens\Iterator\obj\x86\Debug\Iterator.pdb

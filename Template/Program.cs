@@ -1,13 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace TemplateMethod
+﻿namespace TemplateMethod
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             DataAccessObject dao;
             dao = new Clientes();

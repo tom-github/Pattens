@@ -7,3 +7,7 @@ C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Observe
 C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Observer\bin\Debug\Observer.pdb
 C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Observer\obj\x86\Debug\Observer.exe
 C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Observer\obj\x86\Debug\Observer.pdb
+C:\Users\eferreira\Documents\GitHub\Pattens\Observer\bin\Debug\Observer.exe
+C:\Users\eferreira\Documents\GitHub\Pattens\Observer\bin\Debug\Observer.pdb
+C:\Users\eferreira\Documents\GitHub\Pattens\Observer\obj\x86\Debug\Observer.exe
+C:\Users\eferreira\Documents\GitHub\Pattens\Observer\obj\x86\Debug\Observer.pdb

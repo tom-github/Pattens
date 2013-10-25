@@ -7,3 +7,7 @@ C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Interpr
 C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Interpreter\bin\Debug\Interpreter.pdb
 C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Interpreter\obj\x86\Debug\Interpreter.exe
 C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Interpreter\obj\x86\Debug\Interpreter.pdb
+C:\Users\eferreira\Documents\GitHub\Pattens\Interpreter\bin\Debug\Interpreter.exe
+C:\Users\eferreira\Documents\GitHub\Pattens\Interpreter\bin\Debug\Interpreter.pdb
+C:\Users\eferreira\Documents\GitHub\Pattens\Interpreter\obj\x86\Debug\Interpreter.exe
+C:\Users\eferreira\Documents\GitHub\Pattens\Interpreter\obj\x86\Debug\Interpreter.pdb

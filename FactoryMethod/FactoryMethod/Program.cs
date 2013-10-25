@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace FactoryMethod
 {
@@ -13,6 +10,7 @@ namespace FactoryMethod
             Fabricante[] fabricantes = new Fabricante[2];
             fabricantes[0] = new Volkswagen();
             fabricantes[1] = new Fiat();
+
             // Mostra carros dos Fabricantes
             foreach (Fabricante fabricante in fabricantes)
             {

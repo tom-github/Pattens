@@ -7,3 +7,7 @@ C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Adapter
 C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Adapter\bin\Debug\ClassAdapter.pdb
 C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Adapter\obj\x86\Debug\ClassAdapter.exe
 C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Adapter\obj\x86\Debug\ClassAdapter.pdb
+C:\Users\eferreira\Documents\GitHub\Pattens\Adapter\bin\Debug\ClassAdapter.exe
+C:\Users\eferreira\Documents\GitHub\Pattens\Adapter\bin\Debug\ClassAdapter.pdb
+C:\Users\eferreira\Documents\GitHub\Pattens\Adapter\obj\x86\Debug\ClassAdapter.exe
+C:\Users\eferreira\Documents\GitHub\Pattens\Adapter\obj\x86\Debug\ClassAdapter.pdb

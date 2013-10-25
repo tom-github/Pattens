@@ -7,3 +7,7 @@ C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Chain o
 C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Chain of Responsability\bin\Debug\Chain of Responsability.pdb
 C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Chain of Responsability\obj\x86\Debug\Chain of Responsability.exe
 C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Chain of Responsability\obj\x86\Debug\Chain of Responsability.pdb
+C:\Users\eferreira\Documents\GitHub\Pattens\Chain of Responsability\bin\Debug\Chain of Responsability.exe
+C:\Users\eferreira\Documents\GitHub\Pattens\Chain of Responsability\bin\Debug\Chain of Responsability.pdb
+C:\Users\eferreira\Documents\GitHub\Pattens\Chain of Responsability\obj\x86\Debug\Chain of Responsability.exe
+C:\Users\eferreira\Documents\GitHub\Pattens\Chain of Responsability\obj\x86\Debug\Chain of Responsability.pdb

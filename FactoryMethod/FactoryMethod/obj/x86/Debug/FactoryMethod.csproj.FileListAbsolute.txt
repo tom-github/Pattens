@@ -12,3 +12,7 @@ C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Factory
 C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
 C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\FactoryMethod\FactoryMethod\obj\x86\Debug\FactoryMethod.exe
 C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\FactoryMethod\FactoryMethod\obj\x86\Debug\FactoryMethod.pdb
+C:\Users\eferreira\Documents\GitHub\Pattens\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\eferreira\Documents\GitHub\Pattens\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\eferreira\Documents\GitHub\Pattens\FactoryMethod\FactoryMethod\obj\x86\Debug\FactoryMethod.exe
+C:\Users\eferreira\Documents\GitHub\Pattens\FactoryMethod\FactoryMethod\obj\x86\Debug\FactoryMethod.pdb

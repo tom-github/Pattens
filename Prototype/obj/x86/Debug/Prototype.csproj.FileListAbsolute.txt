@@ -12,3 +12,7 @@ C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Prototy
 C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Prototype\bin\Debug\Prototype.pdb
 C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Prototype\obj\x86\Debug\Prototype.exe
 C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Prototype\obj\x86\Debug\Prototype.pdb
+C:\Users\eferreira\Documents\GitHub\Pattens\Prototype\bin\Debug\Prototype.exe
+C:\Users\eferreira\Documents\GitHub\Pattens\Prototype\bin\Debug\Prototype.pdb
+C:\Users\eferreira\Documents\GitHub\Pattens\Prototype\obj\x86\Debug\Prototype.exe
+C:\Users\eferreira\Documents\GitHub\Pattens\Prototype\obj\x86\Debug\Prototype.pdb

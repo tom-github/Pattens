@@ -89,6 +89,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Extencion", "Extencion", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Responsability", "Responsability", "{D4C3D503-731F-4972-BA53-5BEF17B06F31}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{AB52502C-08F9-4BE1-B54D-FDCBA7AB4D6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -187,6 +189,10 @@ Global
 		{3D51DE17-ED32-4850-BAE8-8B698FCF75FA}.Debug|x86.Build.0 = Debug|x86
 		{3D51DE17-ED32-4850-BAE8-8B698FCF75FA}.Release|x86.ActiveCfg = Release|x86
 		{3D51DE17-ED32-4850-BAE8-8B698FCF75FA}.Release|x86.Build.0 = Release|x86
+		{AB52502C-08F9-4BE1-B54D-FDCBA7AB4D6A}.Debug|x86.ActiveCfg = Debug|x86
+		{AB52502C-08F9-4BE1-B54D-FDCBA7AB4D6A}.Debug|x86.Build.0 = Debug|x86
+		{AB52502C-08F9-4BE1-B54D-FDCBA7AB4D6A}.Release|x86.ActiveCfg = Release|x86
+		{AB52502C-08F9-4BE1-B54D-FDCBA7AB4D6A}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

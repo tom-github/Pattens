@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace Memento
 {
@@ -40,6 +37,7 @@ namespace Memento
                 Console.WriteLine("Orcamento: " + orcamento);
             }
         }
+
         public Recordacao SalvaRecordacao()
         {
             Console.WriteLine("\nSalvando Estado --\n");

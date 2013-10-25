@@ -7,3 +7,7 @@ C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Flyweig
 C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Flyweight\bin\Debug\Flyweight.pdb
 C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Flyweight\obj\x86\Debug\Flyweight.exe
 C:\Users\eferreira\Documents\Visual Studio 2011 Beta\Utilitarios\Pattens\Flyweight\obj\x86\Debug\Flyweight.pdb
+C:\Users\eferreira\Documents\GitHub\Pattens\Flyweight\bin\Debug\Flyweight.exe
+C:\Users\eferreira\Documents\GitHub\Pattens\Flyweight\bin\Debug\Flyweight.pdb
+C:\Users\eferreira\Documents\GitHub\Pattens\Flyweight\obj\x86\Debug\Flyweight.exe
+C:\Users\eferreira\Documents\GitHub\Pattens\Flyweight\obj\x86\Debug\Flyweight.pdb
